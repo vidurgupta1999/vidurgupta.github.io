@@ -1,10 +1,10 @@
 const greeting = {
-    title: "Hi, I'm Vidur Gyota",
+    title: "Hi, I'm Vidur Gupta",
     logo_name: "Vidur Gupta",
     logo_img_show: false, // if true than show image(logo) in home page instant of text(logo)
     logo_img: "https://logo.letskhabar.com/name?name=name",
-    full_name: "your name",
-    email: "email id",
+    full_name: "Vidur Gupta",
+    email: "gupta.vidur@outlook.com",
     subTitle:
     "I am currently a senior attending University of Maryland, College Park studying Information Science. I specialize in Data Analysis and Web Development and UX/UI Design, specifically with the languages SQL, Python, R, HTML, CSS, and Javascript.",
     Programming: true,  // if true, Show 'Programming' section in home page, if false than not show
