@@ -342,10 +342,7 @@ const certificate = [
 ];
 
 const ProgrammingBio = [
-    "You can Remove this section in name.js",
-    "i know c java and python",
-    'you can edit this text from name.js',
-    "you can change below skill icons from name.js"
+    "Extensive knowledge in web design, specifically with Python HTML, Java, and CSS",
 ];
 
 const DevBio = [
