@@ -1,6 +1,6 @@
 const greeting = {
-    title: "Hi, I'm Your Name",
-    logo_name: "Name",
+    title: "Hi, I'm Vidur Gyota",
+    logo_name: "Vidur Gupta",
     logo_img_show: false, // if true than show image(logo) in home page instant of text(logo)
     logo_img: "https://logo.letskhabar.com/name?name=name",
     full_name: "your name",
