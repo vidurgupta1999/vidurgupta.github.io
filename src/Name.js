@@ -7,13 +7,13 @@ const greeting = {
     email: "gupta.vidur@outlook.com",
     subTitle:
     "I am currently a senior attending University of Maryland, College Park studying Information Science. I specialize in Data Analysis and Web Development and UX/UI Design, specifically with the languages SQL, Python, R, HTML, CSS, and Javascript.",
-    Programming: true,  // if true, Show 'Programming' section in home page, if false than not show
+    Coding: true,  // if true, Show 'Programming' section in home page, if false than not show
     developer: true,  // if true, Show 'Full Stack Development' section in home page, if false than not show
     designer: true,  // if true, Show 'designer' section in home page, if false than not show
-    cloud_infra_architecture:true,  // if true, Show 'cloud_infra_architecture' section in home page, if false than not show
+    cloud_infra_architecture:false,  // if true, Show 'cloud_infra_architecture' section in home page, if false than not show
     data_Science: true,  // if true, Show 'data_Science' section in home page, if false than not show
-    ml_ai: true,  // if true, Show 'ml_ai' section in home page, if false than not show
-    Robotic: true,  // if true, Show 'Robotic' section in home page, if false than not show
+    ml_ai: false,  // if true, Show 'ml_ai' section in home page, if false than not show
+    Robotic: false,  // if true, Show 'Robotic' section in home page, if false than not show
     gamedev: true,  // if true, Show 'gamedev' section in home page, if false than not show
 };
 
