@@ -1,6 +1,6 @@
-/*import React, { Component } from 'react'
+import React, { Component } from 'react'
 import './card.css'
-import {BlogData} from '../Name'
+/*import {BlogData} from '../Name'*/
 
 class Blog extends Component {
 
@@ -13,7 +13,7 @@ class Blog extends Component {
     }
 
   componentDidMount() {
-    /*const apiUrl = `https://dev.to/api/articles?username=${BlogData.devto_username}`;
+    const apiUrl = `https://dev.to/api/articles?username=${BlogData.devto_username}`;
     fetch(apiUrl)
       .then((response) => response.json())
       .then((data) => {
@@ -56,4 +56,3 @@ class Blog extends Component {
 }
 
 export default Blog;
-*/
