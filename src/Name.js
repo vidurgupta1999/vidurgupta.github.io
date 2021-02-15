@@ -140,7 +140,6 @@ const DevSkill = [
         icon: "rust",
         img: "https://logo.letskhabar.com/img?tool=rust"
     }
-
 ];
 
 const DesignSkill = [
@@ -298,7 +297,7 @@ const Gamedev_Skill = [
 ];
 
 
-/*const projects = [
+const projects = [
     {
         id: "1",
         name: "project 1",
@@ -350,7 +349,7 @@ const certificate = [
         img: "https://master-portfolio.js.org/src/assets/img/mplogo.png"
     }
 ];
-*/
+
 
 const ProgrammingBio = [
     "Extensive knowledge in web design, specifically with Python HTML, Java, and CSS",
