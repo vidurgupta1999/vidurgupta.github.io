@@ -27,7 +27,7 @@ class Developer extends Component {
           </div>
           <div className="text-part">
             <div className="text">
-              <h2>Full Stack Development</h2>
+              <h2>Web Development</h2>
               {Devlist}
               <div className="sm">
               {DevToollist}

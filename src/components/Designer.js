@@ -24,7 +24,7 @@ class Designer extends Component {
         <div className="main">
           <div className="text-part">
             <div className="text">
-              <h2>Design</h2>
+              <h2>UX/UI Design</h2>
               {Designlist}
               <div className="sm">
               {DesignToollist}
