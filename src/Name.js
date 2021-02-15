@@ -23,7 +23,7 @@ const BlogData = {
     devto_username: "vimal",
     Blog_Bio : [
         // this is visible in '/blog' section if show_Blog: true, else show in skill section
-        "In Progresss"
+        "In Progress"
     ]
 };
 
@@ -86,7 +86,7 @@ const ProgrammingSkill = [
         icon: "C",
         img: "https://logo.letskhabar.com/d?tool=c-programming"
 
-    },
+    }
 ];
 
 const DevSkill = [
