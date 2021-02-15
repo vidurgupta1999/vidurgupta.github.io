@@ -291,27 +291,26 @@ const projects = [
     {
         id: "1",
         name: "FireFilm",
-        Description: "-Developed a web application that allowed users to search for movies with a keyword of their preference by using HTML, JavaScript, and CSS. -Implemented The Open Movie Database API into our web application through the use of API Keys and Front-End Programming",
-        tool_used: "html,css,js",
+        Description: "Developed a web application that allowed users to search for movies with a keyword of their preference by using HTML, JavaScript, and CSS. Implemented The Open Movie Database API into our web application through the use of API Keys and Front-End Programming",
+        tool_used: "HTML,CSS,Javascript",
         img: "https://logo.letskhabar.com/img?tool=github"
     },
     {
         id: "2",
-        name: "project 2",
-        Description: "this is Description",
-        Code_Link: "this is code link",
-        Live_link: "this is Live link",
-        tool_used: "html,css,js",
-        img: "https://master-portfolio.js.org/src/assets/img/mplogo.png"
+        name: "IMDB Movie Data Analysis",
+        Description: "Utilized R to conduct an analysis of 5000+ movies and determine relationships between year released and overall audience engagement. Implemented ggplot2 to develop visualizations that correlated the ratings of the movies with the year the movie was released, in addition to its length, and age of actors.",
+        tool_used: "R, ggplot2",
+        img: "https://logo.letskhabar.com/img?tool=github"
     },
     {
         id: "3",
-        name: "project 3",
-        Description: "this is Description",
-        Code_Link: "this is code link",
+        name: "Analysis Airlines and Fatal Accidents from 1985-2014 ",
+        Description: "Designed interactive dashboards and storyboards in Tableau covering Accidents and Fatalities occurring from 100+ different airline carriers. Analyzed 1000+ accidents to correlate issues and fatalities with airline design,",
+        /*Code_Link: "this is code link",
         Live_link: "this is Live link",
-        tool_used: "html,css,js",
-        img: "https://master-portfolio.js.org/src/assets/img/mplogo.png"
+        */
+        tool_used: "Tableau",
+        img: "https://logo.letskhabar.com/img?tool=github"
     }
 ];
 const certificate = [
