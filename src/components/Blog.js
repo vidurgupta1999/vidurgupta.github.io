@@ -13,7 +13,7 @@ class Blog extends Component {
     }
 
   componentDidMount() {
-    const apiUrl = `https://dev.to/api/articles?username=${BlogData.devto_username}`;
+    const apiUrl = `${BlogData.devto_username}`;
     fetch(apiUrl)
       .then((response) => response.json())
       .then((data) => {
