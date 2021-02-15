@@ -352,8 +352,8 @@ const DevBio = [
 ]
 
 const DesignBio = [
-    "Expert in Storyboarding, Physical Prototyping, WireframingHigh Fidelity Design, and Responsive Web Design by using software, such as Balsamiq, Framer.js, and Cinema 4D.",
-    "Expert in Data Visualization Software, such as Tableau, Microsoft Power BI, and Microsft Excel"
+    "Expert in Storyboarding, Physical Prototyping, Wireframing",
+    "High Fidelity Design, and Responsive Web Design by using software, such as Balsamiq, Framer.js, and Cinema 4D.",
 ]
 
 
@@ -386,10 +386,8 @@ const cloud_infra_architecture_Bio = [
 ];
 
 const data_Science_Bio = [
-    "You can Remove this section in name.js",
-    "Developing highly scalable production ready models for various deeplearning and statistical use cases",
-    "you can change below skill icons"
-];
+    "Expert in Data Visualization Software, such as Tableau, Microsoft Power BI, and Microsft Excel"
+s];
 
 const Ml_ai_Bio = [
     "You can Remove this section in name.js",
