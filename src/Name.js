@@ -346,10 +346,10 @@ const ProgrammingBio = [
 ];
 
 const DevBio = [
-    "Building responsive website front end using React-Redux",
-    'Developing mobile applications using Flutter',
-    'Creating application backend in Node & Express'
-];
+    "Extensive knowledge in web design, specifically with HTML, Javascript, CSS, and React",
+    "Detail oriented, persistent, strong desire to produce quality applications ",
+    "Effecively translate concepts into user flows, wireframes, mockups and prototypes that lead to intuitive user experiences"
+]
 
 const DesignBio = [
     'Designing attractive user interface for mobile and web applications',
