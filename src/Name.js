@@ -370,7 +370,7 @@ const EducationBio =[
     "Specialties: Data Visualization, Data Analysis, Web Development, User Design and Testing, Programming, Data Science, Database Development, Resource Allocation, Agile Scrum, Strategic Planning, Customer Relationship Management."
 ];
 const ProjectsBio =[
-    ' Below are my Data Analysis and Web Development Projects'
+    :Below are my Data Analysis and Web Development Projects"
 ];
 const ContactBio =[
     'I am a student pursuing my Bachelors of Science in Information Science at University of Maryland, College Park',
