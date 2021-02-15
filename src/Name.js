@@ -7,7 +7,7 @@ const greeting = {
     email: "gupta.vidur@outlook.com",
     subTitle:
     "I am currently a senior pursuing my Bachelors of Science in Information Science at University of Maryland, College Park. I specialize in UX/UI Design and Data Analysis and Visualization",
-    Programming: true,  // if true, Show 'Programming' section in home page, if false than not show
+    Web_Development: true,  // if true, Show 'Programming' section in home page, if false than not show
     developer: true,  // if true, Show 'Full Stack Development' section in home page, if false than not show
     designer: true,  // if true, Show 'designer' section in home page, if false than not show
     cloud_infra_architecture:true,  // if true, Show 'cloud_infra_architecture' section in home page, if false than not show
