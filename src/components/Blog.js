@@ -12,6 +12,7 @@ class Blog extends Component {
         }
     }
 
+    /*
   componentDidMount() {
     const apiUrl = `https://dev.to/api/articles?username=${BlogData.devto_username}`;
     fetch(apiUrl)
@@ -23,6 +24,7 @@ class Blog extends Component {
         })
     });  
   }
+  */
   
     render() {
         var { isLoaded, posts } = this.state
