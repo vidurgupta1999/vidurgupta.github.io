@@ -386,8 +386,9 @@ const cloud_infra_architecture_Bio = [
 ];
 
 const data_Science_Bio = [
+    "Strong analytical skills with an extensive understanding of statistical techniques, such as hypothesis development, designing tests/experiments, analyzing data, drawing conclusions, and delivering actionable recommendations.",
     "Expert in Data Visualization Software, such as Tableau, Microsoft Power BI, and Microsft Excel",
-    "Experienced in the Data Analysis Libraries NumPy, Seaborn, Folium, IPython-sql, Pandas, Matplotlib, and ScipPy",
+    "Libraries: NumPy, Seaborn, Folium, IPython-sql, Pandas, Matplotlib, and ScipPy",
 ];
 
 const Ml_ai_Bio = [
