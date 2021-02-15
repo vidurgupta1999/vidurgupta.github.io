@@ -23,7 +23,7 @@ class Data extends Component {
         <div className="main">
           <div className="text-part">
             <div className="text">
-              <h2>Data Science</h2>
+              <h2>Data Analytics</h2>
               {BioList}
               <div className="sm">
               {dataToollist}
