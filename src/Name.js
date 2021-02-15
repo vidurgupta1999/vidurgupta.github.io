@@ -74,19 +74,6 @@ const ProgrammingSkill = [
         icon: "python",
         img: "https://logo.letskhabar.com/img?tool=python"
     },
-    {
-        icon: "aws",
-        img: "https://logo.letskhabar.com/img?tool=amazon-web-services"
-    },
-    {
-        icon: "SQL",
-        img: "https://logo.letskhabar.com/img/?tool=mysql"
-    },
-    {
-        icon: "C",
-        img: "https://logo.letskhabar.com/d?tool=c-programming"
-
-    }
 ];
 
 const DevSkill = [
@@ -230,6 +217,19 @@ const data_Science_Skill = [
     {
         icon: "jupyter",
         img: "https://logo.letskhabar.com/img?tool=jupyter"
+    },
+    {
+        icon: "aws",
+        img: "https://logo.letskhabar.com/img?tool=amazon-web-services"
+    },
+    {
+        icon: "SQL",
+        img: "https://logo.letskhabar.com/img/?tool=mysql"
+    },
+    {
+        icon: "C",
+        img: "https://logo.letskhabar.com/d?tool=c-programming"
+
     }
 ];
 const Ml_ai_Skill = [
@@ -370,8 +370,7 @@ const EducationBio =[
     "Specialties: Data Visualization, Data Analysis, Web Development, User Design and Testing, Programming, Data Science, Database Development, Resource Allocation, Agile Scrum, Strategic Planning, Customer Relationship Management."
 ];
 const ProjectsBio =[
-    ' I’m currently learning Full Stack Development.',
-    ' I’m currently working with Node.js, Express.js, React, Mongodb, Javascript, Flutter, etc'
+    ' Below are my Data Analysis and Web Development Projects'
 ];
 const ContactBio =[
     'I am a student pursuing my Bachelors of Science in Information Science at University of Maryland, College Park',
