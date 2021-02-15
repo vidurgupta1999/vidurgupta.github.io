@@ -6,7 +6,7 @@ const greeting = {
     full_name: "Vidur Gupta",
     email: "gupta.vidur@outlook.com",
     subTitle:
-    "I am currently a senior attending University of Maryland, College Park studying Information Science. I specialize in Data Analysis and Web Development and UX/UI Design, specifically with the languages SQL, Python, R, HTML, CSS, and Javascript.",
+    "I am currently a senior pursuing my Bachelors of Science in Information Science at University of Maryland, College Park. I specialize in UX/UI Design and Data Analysis and Visualization",
     Programming: true,  // if true, Show 'Programming' section in home page, if false than not show
     developer: true,  // if true, Show 'Full Stack Development' section in home page, if false than not show
     designer: true,  // if true, Show 'designer' section in home page, if false than not show
