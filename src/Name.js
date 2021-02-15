@@ -230,13 +230,7 @@ const data_Science_Skill = [
     {
         icon: "jupyter",
         img: "https://logo.letskhabar.com/img?tool=jupyter"
-    },
-    {
-        icon: "R",
-        img: "https://logo.letskhabar.com/d?tool=r-project"
     }
-    
-
 ];
 const Ml_ai_Skill = [
     // https://logo.letskhabar.com/ all logo list
@@ -367,15 +361,13 @@ const DesignBio = [
 const AboutBio =[
     'I am a student pursuing my Bachelors of Science in Information Science at University of Maryland, College Park',
     ' Fun fact: I am a DJ and love music ',
-    ' Love working with Node.js, Express.js, React, Mongodb, Javascript, Flutter, etc',
+    ' Specialize with Node.js, Express.js, React, Mongodb, and Javascript',
     ' I am From Ellicott City, MD',
     
 ];
 const EducationBio =[
-    'I am a student pursuing my Bachelors of Science in Information Science at University of Maryland, College Park',
-    ' I am from Ellicott City, MD',
-    ' Fun fact: I am a DJ and love music ',
-    ' Love working with Node.js, Express.js, React, Mongodb, Javascript, Flutter, etc',
+    "I am currently a senior attending University of Maryland, College Park studying Information Science. I specialize in Data Analysis and Web Development and UX/UI Design, specifically with the languages SQL, Python, R, HTML, CSS, and Javascript.",
+    "Specialties: Data Visualization, Data Analysis, Web Development, User Design and Testing, Programming, Data Science, Database Development, Resource Allocation, Agile Scrum, Strategic Planning, Customer Relationship Management."
 ];
 const ProjectsBio =[
     ' I’m currently learning Full Stack Development.',
