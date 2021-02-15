@@ -34,42 +34,27 @@ const socialMedia = [
     {
         icon: "facebook",
         img: "https://logo.letskhabar.com/img?tool=facebook0",
-        link: "Your facebook link"
-    },
-    {
-        icon: "twitter",
-        img: "https://logo.letskhabar.com/img?tool=twitter",
-        link: "Your twitter link"
+        link: "https://www.facebook.com/vidur.gupta.923/"
     },
     {
         icon: "instagram",
         img: "https://logo.letskhabar.com/img?tool=instagram",
-        link: "Your instagram link"
+        link: "https://www.instagram.com/virtuicofficial/"
     },
     {
         icon: "github",
         img: "https://logo.letskhabar.com/img?tool=github",
-        link: "Your github link"
-    },
-    {
-        icon: "gitlab",
-        img: "https://logo.letskhabar.com/img?tool=gitlab",
-        link: "Your gitlab link"
-    },
-    {
-        icon: "devto",
-        img: "https://logo.letskhabar.com/img?tool=dev",
-        link: "Your devto link"
+        link: "https://www.github.com/vidurgupta1999"
     },
     {
         icon: "linkedin",
         img: "https://logo.letskhabar.com/img?tool=linkedin",
-        link: "Your linkedin link"
+        link: "https://www.linkedin.com/in/vidurgupta1999/"
     },
     {
         icon: "mail",
         img: "https://logo.letskhabar.com/img?tool=mail",
-        link: "mailto:Your mail"
+        link: "mailto:gupta.vidur@outlook.com"
     }
 
 ];
@@ -94,8 +79,13 @@ const ProgrammingSkill = [
         img: "https://logo.letskhabar.com/img?tool=amazon-web-services"
     },
     {
-        icon: "azure",
-        img: "https://logo.letskhabar.com/img?tool=azure"
+        icon: "SQL",
+        img: "https://logo.letskhabar.com/img/?tool=mysql"
+    },
+    {
+        icon: "C",
+        img: "https://logo.letskhabar.com/d?tool=c-programming"
+
     },
 ];
 
@@ -245,7 +235,12 @@ const data_Science_Skill = [
     {
         icon: "jupyter",
         img: "https://logo.letskhabar.com/img?tool=jupyter"
+    },
+    {
+        icon: "R",
+        img: "https://logo.letskhabar.com/d?tool=r-project"
     }
+    
 
 ];
 const Ml_ai_Skill = [
