@@ -228,10 +228,6 @@ const data_Science_Skill = [
         img: "https://logo.letskhabar.com/img/?tool=github" 
     },
     {
-        icon: "tensorflow",
-        img: "https://logo.letskhabar.com/img?tool=tensorflow"
-    },
-    {
         icon: "jupyter",
         img: "https://logo.letskhabar.com/img?tool=jupyter"
     },
