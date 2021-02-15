@@ -352,19 +352,17 @@ const DevBio = [
 ]
 
 const DesignBio = [
-    'Designing attractive user interface for mobile and web applications',
-    'Customizing logo designs',
-    'Editing video'
+    "Expert in Storyboarding, Physical Prototyping, WireframingHigh Fidelity Design, and Responsive Web Design by using software, such as Balsamiq, Framer.js, and Cinema 4D.
+    "Expert iin Data Visualization Software, such as Tableau, Microsoft Power BI, and Microsft Excel"
 ]
 
 
 const AboutBio =[
-    ' I’m currently learning Full Stack Development.',
-    ' I’m currently working with Node.js, Express.js, React, Mongodb, Javascript, Flutter, etc',
     ' I’m a student pursuing {course} in {department} from {university}',
-    ' Fun fact: \'Equal is Not Always Equal in Javascript\'',
-    ' I am From {City}',
-    ' I am available on almost every social media. You can message me'
+    ' Fun fact: I am a DJ and love music ',
+    ' Love working with Node.js, Express.js, React, Mongodb, Javascript, Flutter, etc',
+    ' I am From Ellicott City, MD',
+    
 ];
 const EducationBio =[
     ' I’m currently learning Full Stack Development.',
