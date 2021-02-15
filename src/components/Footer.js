@@ -4,7 +4,7 @@ import './footer.css'
 
 class Footer extends Component {
     render() {
-      console.log("Theme by Master-Portfolio  https://github.com/vimalverma558/Master-Portfolio")
+      console.log("")
       return (
         <div className="foot">
           
@@ -15,7 +15,7 @@ class Footer extends Component {
           https://github.com/vimalverma558/Master-Portfolio */}
 
 
-          <p>Made with <a href="https://github.com/vimalverma558/Master-Portfolio">Master-Portfolio</a> <span role="img" aria-label="Heart"> ❤️ </span> by { greeting.full_name } </p>
+          <p></p>
           
         </div>
       );
