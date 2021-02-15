@@ -290,12 +290,10 @@ const Gamedev_Skill = [
 const projects = [
     {
         id: "1",
-        name: "project 1",
-        Description: "this is Description",
-        Code_Link: "this is code link",
-        Live_link: "this is Live link",
+        name: "FireFilm",
+        Description: "Developed a web application that allowed users to search for movies with a keyword of their preference by using HTML, JavaScript, and CSS. Implemented The Open Movie Database API into our web application through the use of API Keys and Front-End Programming",
         tool_used: "html,css,js",
-        img: "https://master-portfolio.js.org/src/assets/img/mplogo.png"
+        img: "https://logo.letskhabar.com/img?tool=github"
     },
     {
         id: "2",
