@@ -386,8 +386,9 @@ const cloud_infra_architecture_Bio = [
 ];
 
 const data_Science_Bio = [
-    "Expert in Data Visualization Software, such as Tableau, Microsoft Power BI, and Microsft Excel"
-s];
+    "Expert in Data Visualization Software, such as Tableau, Microsoft Power BI, and Microsft Excel",
+    "Experienced with Data Analysis using Python and R"
+];
 
 const Ml_ai_Bio = [
     "You can Remove this section in name.js",
