@@ -354,6 +354,7 @@ const DevBio = [
 const DesignBio = [
     "Expert in Storyboarding, Physical Prototyping, Wireframing",
     "High Fidelity Design, and Responsive Web Design by using software, such as Balsamiq, Framer.js, and Cinema 4D.",
+    "Utilzing Figma, Sketch, InVision, Principle, and Adobe CC to develop interactive designs"
 ]
 
 
