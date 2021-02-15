@@ -372,8 +372,7 @@ const ProjectsBio =[
     "Below are my Data Analysis and Web Development Projects"
 ];
 const ContactBio =[
-    'I am a student pursuing my Bachelors of Science in Information Science at University of Maryland, College Park',
-    ' I am from Ellicott City, MD',
+    'Please feel free to reach out to me at gupta.vidur@outlook.com. My phone number is also 410-292-6922.',
 ];
 
 const cloud_infra_architecture_Bio = [
