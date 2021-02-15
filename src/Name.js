@@ -387,9 +387,7 @@ const cloud_infra_architecture_Bio = [
 
 const data_Science_Bio = [
     "Expert in Data Visualization Software, such as Tableau, Microsoft Power BI, and Microsft Excel",
-    "Developing reports and dashboards using MicrosBI/data visualization tools",
-    "Experienced in NumPy, Seaborn, Folium, IPython-sql, Pandas, Matplotlib, and ScipPy,
-
+    "Experienced in the Data Analysis Libraries NumPy, Seaborn, Folium, IPython-sql, Pandas, Matplotlib, and ScipPy",
 ];
 
 const Ml_ai_Bio = [
