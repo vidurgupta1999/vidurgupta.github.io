@@ -7,11 +7,11 @@ const greeting = {
     email: "gupta.vidur@outlook.com",
     subTitle:
     "I am currently a senior pursuing my Bachelors of Science in Information Science at University of Maryland, College Park. I specialize in UX/UI Design and Data Analysis and Visualization",
-    Programming: true,  // if true, Show 'Programming' section in home page, if false than not show
+    Programming: true, 
+    data_Science: true, // if true, Show 'Programming' section in home page, if false than not show
     developer: true,  // if true, Show 'Full Stack Development' section in home page, if false than not show
     designer: true,  // if true, Show 'designer' section in home page, if false than not show
     cloud_infra_architecture:false,  // if true, Show 'cloud_infra_architecture' section in home page, if false than not show
-    data_Science: true,  // if true, Show 'data_Science' section in home page, if false than not show
     ml_ai: false,  // if true, Show 'ml_ai' section in home page, if false than not show
     Robotic: false,  // if true, Show 'Robotic' section in home page, if false than not show
     gamedev: false,  // if true, Show 'gamedev' section in home page, if false than not show
