@@ -23,7 +23,7 @@ const BlogData = {
     devto_username: "vimal",
     Blog_Bio : [
         // this is visible in '/blog' section if show_Blog: true, else show in skill section
-        "I have always had a passion for UX/Ui Design."
+        "In Progress"
     ]
 };
 
