@@ -291,7 +291,7 @@ const projects = [
     {
         id: "1",
         name: "FireFilm",
-        Description: "Developed a web application that allowed users to search for movies with a keyword of their preference by using HTML, JavaScript, and CSS. Implemented The Open Movie Database API into our web application through the use of API Keys and Front-End Programming",
+        Description: "-Developed a web application that allowed users to search for movies with a keyword of their preference by using HTML, JavaScript, and CSS. -Implemented The Open Movie Database API into our web application through the use of API Keys and Front-End Programming",
         tool_used: "html,css,js",
         img: "https://logo.letskhabar.com/img?tool=github"
     },
