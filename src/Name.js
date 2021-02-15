@@ -352,8 +352,8 @@ const DevBio = [
 ]
 
 const DesignBio = [
-    "Expert in Storyboarding, Physical Prototyping, WireframingHigh Fidelity Design, and Responsive Web Design by using software, such as Balsamiq, Framer.js, and Cinema 4D.
-    "Expert iin Data Visualization Software, such as Tableau, Microsoft Power BI, and Microsft Excel"
+    "Expert in Storyboarding, Physical Prototyping, WireframingHigh Fidelity Design, and Responsive Web Design by using software, such as Balsamiq, Framer.js, and Cinema 4D.",
+    "Expert in Data Visualization Software, such as Tableau, Microsoft Power BI, and Microsft Excel"
 ]
 
 
