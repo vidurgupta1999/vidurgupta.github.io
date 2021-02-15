@@ -1,6 +1,6 @@
 import React, { Component } from 'react'
 import './card.css'
-/*import {BlogData} from '../Name'*/
+import {BlogData} from '../Name'
 
 class Blog extends Component {
 
@@ -48,10 +48,11 @@ class Blog extends Component {
             return (
                 <div>
                     <h1>My Blog</h1>
-                    <div className="project">{projectlist}</div>
                 </div>
             )
         }
+        /*<div className="project">{projectlist}</div>*/
+
     }
 }
 
