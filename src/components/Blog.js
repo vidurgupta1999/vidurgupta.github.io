@@ -48,11 +48,10 @@ class Blog extends Component {
             return (
                 <div>
                     <h1>My Blog</h1>
+                    <div className="project">{projectlist}</div>
                 </div>
             )
         }
-        /*<div className="project">{projectlist}</div>*/
-
     }
 }
 
