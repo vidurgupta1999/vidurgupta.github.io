@@ -89,7 +89,14 @@ const ProgrammingSkill = [
         icon: "python",
         img: "https://logo.letskhabar.com/img?tool=python"
     },
-
+    {
+        icon: "aws",
+        img: "https://logo.letskhabar.com/img?tool=amazon-web-services"
+    },
+    {
+        icon: "azure",
+        img: "https://logo.letskhabar.com/img?tool=azure"
+    },
 ];
 
 const DevSkill = [
