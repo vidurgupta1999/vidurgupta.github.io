@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 import React, { Component } from "react";
 import { greeting } from '../Name';
 import './footer.css'
@@ -23,3 +24,5 @@ class Footer extends Component {
   }
   
   export default Footer;
+=======
+>>>>>>> parent of e42b7f8... Update Footer.js
